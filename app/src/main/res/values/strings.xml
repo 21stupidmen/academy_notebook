@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">academy_notebook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Reg_button">Регистрация</string>
+    <string name="Input">Вход</string>
 </resources>
